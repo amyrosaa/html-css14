@@ -1,0 +1,76 @@
+
+body{
+    background-color: black;
+    color: black;
+    font-family: 'Vincent';
+    font-size: 30px;
+    
+}
+
+.wrapper {
+    background-color: white;
+    margin: 70px auto;
+    padding: 20px;
+    line-height: 70px;
+    width: 800 px;
+    margin-right:auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom:20px;
+    
+}
+
+h2   {
+border:5px gray;
+padding-left:5px;
+
+}
+
+
+code {
+font-family: noodlescript;
+padding:20px
+
+}
+
+
+
+
+nav 
+  ul{
+list-style-type: none;
+padding: 0px;
+
+
+}
+
+nav li{
+    display: inline-block;
+    margin-bottom: 30px;
+    
+    }
+    
+nav a{
+    padding: 20px;
+    margin-right: 30 px
+    
+}
+
+a{ 
+color: pink;
+padding:30px;
+font-family: noodleshaded;
+font-size: 50px;
+
+}
+
+a:hover {
+color:black;
+font-size: 40px;
+
+}    
+    
+li{
+margin:30px;
+
+}    
